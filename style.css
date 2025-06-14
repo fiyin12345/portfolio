@@ -12,11 +12,17 @@
     height: 60%;
     width: 100%
 }
-.row {
+.row p {
     background-color: red;
     max-height: 350px;
 }
 .white {
     height: 20px;
     background-color: white;
+}
+.carousel-item img {
+    width: 100%;
+}    
+.btn {
+    margin-left: 50%;
 }
