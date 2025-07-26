@@ -26,3 +26,11 @@
 .btn {
     margin-left: 50%;
 }
+#foods {
+    height: 325px;
+    margin-top: 100px;
+}
+html {
+    scroll-behavior: smooth;
+}
+
